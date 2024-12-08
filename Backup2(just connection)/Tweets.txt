@@ -1,0 +1,8 @@
+id user text likes ret all 
+1 ( salam! () () TRUE 
+2 ( asd () () TRUE 
+3 ( asds () () TRUE 
+4 ( asdasdas () () TRUE 
+5 ( aaaaaaaaaaaaaaa () () TRUE 
+6 ( sdjasjkda () () TRUE 
+7 ( salam! () () TRUE 

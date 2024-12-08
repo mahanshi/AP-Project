@@ -1,0 +1,11 @@
+Users
+username UNIQUE CHAR 200
+password CHAR 64
+
+Tweets
+user CHAR 200
+text CHAR 250
+likes CHAR 64
+ret CHAR 200
+all BOOLEAN
+
